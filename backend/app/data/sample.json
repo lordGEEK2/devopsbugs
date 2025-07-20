@@ -1,0 +1,8 @@
+{
+  "title": "App crash",
+  "description": "App crashes on clicking submit",
+  "module": "Auth",
+  "frequency": "Often",
+  "user_type": "Admin",
+  "logs": "Traceback error at auth.py line 45"
+}
